@@ -14,7 +14,7 @@ hero:
       text: API Examples
       link: /api-examples
   image:
-    src: /vitepress-logo-large.webp
+    src: /vitepress-logo-large.png
     alt: VitePress
 
 features:
